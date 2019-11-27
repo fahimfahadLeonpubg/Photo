@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "379074963722",
+    "firebase_url": "https://photo-d2870.firebaseio.com",
+    "project_id": "photo-d2870",
+    "storage_bucket": "photo-d2870.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379074963722:android:9fd79c266a6986fe",
+        "android_client_info": {
+          "package_name": "com.example.asus.photo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379074963722-o51djv8raa2rnn8itueg7p2oflhrj9aj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.asus.photo",
+            "certificate_hash": "e28e8f0780d267ffb18a1278803eeb5e7ff64b0e"
+          }
+        },
+        {
+          "client_id": "379074963722-ob3nonsmrt5aa35p6q4mg8bahcc1te5h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdA6sIhdebwey_oDImWp2J7Z3_giP1SYw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379074963722-ob3nonsmrt5aa35p6q4mg8bahcc1te5h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
